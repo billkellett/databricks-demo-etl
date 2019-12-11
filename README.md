@@ -13,4 +13,4 @@ To install and run this demo in your own Databricks environment:
 
 4. Open the DEMO notebook and follow its step-by-step instructions.
 
-__NOTE:__ To run this demo, you will need access to both SQL Server and MySQL databases.  If you do not have such access, you can still install the notebooks and walk through the steps.  We have left the results in the ETL Notebook so you can simply follow along and look at results from a previous run.
+__NOTE:__ To run this demo, you will need access to both SQL Server and MySQL databases.  If you do not have such access, you can still install the notebooks and walk through the steps.  We have left the results in the ETL Notebook (but not in the PREP notebook) so you can simply follow along and look at results from a previous run.
